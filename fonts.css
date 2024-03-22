@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Bangla';
+  src: url('https://fonts.maateen.me/bangla/Bangla.eot');
+  src: url('https://fonts.maateen.me/bangla/Bangla.woff') format('woff'),
+       url('https://fonts.maateen.me/bangla/Bangla.ttf') format('truetype'),
+       url('https://fonts.maateen.me/bangla/Bangla.svg#Bangla') format('svg'),
+       url('https://fonts.maateen.me/bangla/Bangla.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
