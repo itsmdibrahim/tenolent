@@ -24,3 +24,19 @@
   font-family: 'Sculpin-Regular';
   src: url('https://cdn.jsdelivr.net/gh/itsmdibrahim/tenolent/Sculpin-Regular.ttf') format('truetype');
 }
+@font-face {
+  font-family: 'WFVisualSans-Regular';
+  src: url('https://cdn.jsdelivr.net/gh/itsmdibrahim/tenolent/WFVisualSans-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WFVisualSans-Medium';
+  src: url('https://cdn.jsdelivr.net/gh/itsmdibrahim/tenolent/WFVisualSans-Medium.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WFVisualSans-SemiBold';
+  src: url('https://cdn.jsdelivr.net/gh/itsmdibrahim/tenolent/WFVisualSans-SemiBold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WFVisualSans-Bold';
+  src: url('https://cdn.jsdelivr.net/gh/itsmdibrahim/tenolent/WFVisualSans-Bold.ttf') format('truetype');
+}
