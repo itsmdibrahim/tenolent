@@ -1,4 +1,29 @@
 @font-face {
+  font-family: 'Argos-BoldItalic';
+  src: url('https://cdn.jsdelivr.net/gh/itsmdibrahim/tenolent/Argos-BoldItalic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Argos-Bold';
+  src: url('https://cdn.jsdelivr.net/gh/itsmdibrahim/tenolent/Argos-Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Argos-Italic';
+  src: url('https://cdn.jsdelivr.net/gh/itsmdibrahim/tenolent/Argos-Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Argos-LightItalic.ttf';
+  src: url('https://cdn.jsdelivr.net/gh/itsmdibrahim/tenolent/Argos-LightItalic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Argos-Light.ttf';
+  src: url('https://cdn.jsdelivr.net/gh/itsmdibrahim/tenolent/Argos-Light.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Argos-Regular';
+  src: url('https://cdn.jsdelivr.net/gh/itsmdibrahim/tenolent/Argos-Regular.ttf') format('truetype');
+}
+
+@font-face {
   font-family: 'Mollika';
   src: url('https://cdn.jsdelivr.net/gh/itsmdibrahim/tenolent/Mollika.ttf') format('truetype');
   font-weight: normal;
